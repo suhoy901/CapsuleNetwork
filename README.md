@@ -28,6 +28,7 @@ A PyTorch implementation of CapsNet based on NIPS 2017 paper [Dynamic Routing Be
 </table>
 
 정오분류표
+
 <img src="caps_result/confusion_matrix.png"/>
 
 <table>
@@ -44,11 +45,6 @@ A PyTorch implementation of CapsNet based on NIPS 2017 paper [Dynamic Routing Be
     </td>
   </tr>
 </table>
-
-## Other Implementations
-- [capsnet.pytorch](https://github.com/andreaazzini/capsnet.pytorch.git)
-- [CapsNet-Keras](https://github.com/naturomics/XifengGuo/CapsNet-Keras.git)
-- [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow.git)
 
 ## Credits
 Primarily referenced this implementation:
